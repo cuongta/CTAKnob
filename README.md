@@ -1,6 +1,6 @@
 # CTAKnob
 
-[![CI Status](http://img.shields.io/travis/anthann/CTAKnob.svg?style=flat)](https://travis-ci.org/anthann/CTAKnob)
+[![CI Status](http://img.shields.io/travis/cuongta/CTAKnob.svg?style=flat)](https://travis-ci.org/cuongta/CTAKnob)
 [![Version](https://img.shields.io/cocoapods/v/CTAKnob.svg?style=flat)](http://cocoapods.org/pods/CTAKnob)
 [![License](https://img.shields.io/cocoapods/l/CTAKnob.svg?style=flat)](http://cocoapods.org/pods/CTAKnob)
 [![Platform](https://img.shields.io/cocoapods/p/CTAKnob.svg?style=flat)](http://cocoapods.org/pods/CTAKnob)
